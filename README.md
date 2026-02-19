@@ -8,7 +8,7 @@ This repository demonstrates a hands-on Security Operations Center (SOC) lab usi
 - Wazuh Manager & Dashboard deployed via ISO in VMware
 - Windows agent installed and connected
 - File Integrity Monitoring (FIM) configured
-- Security Configuration Assessment (SCA) enabled (pending Java installation)
+- Security Configuration Assessment (SCA) enabled 
 - Vulnerability detection module enabled for Windows agents
 - Simulated attacks:
   - Brute force login attempts
